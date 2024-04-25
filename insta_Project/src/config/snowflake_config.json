@@ -1,0 +1,9 @@
+{
+    "sfURL": "XXXXXXXX.snowflakecomputing.com",
+    "sfUser": "XXXXXXX",
+    "sfPassword": "XXXXXXX",
+    "sfDatabase": "XXXX",
+    "sfSchema": "public",
+    "sfWarehouse": "compute_wh",
+	"sfRole":"accountadmin"
+}
